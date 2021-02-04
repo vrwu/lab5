@@ -10,7 +10,7 @@ var handlebars = require('express3-handlebars')
 
 var index = require('./routes/index');
 var add = require('./routes/add');
-const { allowedNodeEnvironmentFlags } = require('process');
+//const { allowedNodeEnvironmentFlags } = require('process');
 // Example route
 // var user = require('./routes/user');
 
